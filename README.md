@@ -39,7 +39,7 @@ The vectorizer is fitted on the training data using fit to learn the vocabulary.
 The training and test data are transformed into character n-gram count representations using transform.
 Training a Multinomial Naive Bayes classifier:
 
-7. An instance of the MultinomialNB classifier is created.
+7.An instance of the MultinomialNB classifier is created.
 The classifier is trained on the character n-gram count representations of the training data using fit.
 Predicting labels and evaluating performance:
 
